@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(19, 148, 207);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+header{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+section{
+    background-color: rgb(255, 255, 255);
+    border-radius:0.7em;
+    padding: 15px;
+    width: 250px;
+    margin: auto;
+    box-shadow: 2px 2px 4px 1px;
+}
+section > div{
+    text-align: center;
+}
+section img{
+    border-radius: 1em;
+    
+}
+#msg{
+    padding: 1em;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
